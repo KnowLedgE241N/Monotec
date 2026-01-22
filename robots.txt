@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monotec.ae/sitemap.xml
